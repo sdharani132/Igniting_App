@@ -9,6 +9,8 @@
 
     https://www.quora.com/What-is-npm-and-why-should-I-use
 
+    https://www.stackchief.com/tutorials/npm%20install%20%7C%20how%20it%20works
+
 - What is `Parcel/Webpack`? Why do we need it?
     They are bundlers and the question is answered above.
 
